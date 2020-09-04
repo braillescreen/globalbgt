@@ -1,5 +1,6 @@
 # Global BGT
 A dumb thing that gives you access to functions without including them, because they already  exist. Makes programming easier.
+
 Scripts included:
 * dateandtime: Get the date and time easier - Haha.
 * Speech: Set speech to output to active screen readers (speech.bgt)
