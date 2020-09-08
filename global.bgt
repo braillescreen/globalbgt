@@ -115,3 +115,7 @@ bool init_nvda() {
 if(!screen_reader_set_library_path(NVDA,DIRECTORY_TEMP+"/NVDA.dll")) return false;
 return true;
 }
+//Simply a function to toggle an int from 0 to 1 or from 1 to 0.
+int toggleInt(int i) {
+return(i==0?1:0);
+}
