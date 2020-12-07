@@ -1,11 +1,6 @@
 //This is dateandtime.bgt exactly how it was copied. Only thing I did was put braces in spaces rather than have them on it's own line because it was bothering me.
 
-string seconds;
-string included;
-string included2;
-string time;
-string date;
-string ampm;
+string seconds, included, included2, time, date, ampm;
 int hour2;
 string get_date(bool include_weekday=false, bool numerical=true) {
 date="";
