@@ -9,7 +9,7 @@ Scripts included:
 Comments exist, read. Read all day. Read your face off! Well actually it isn't a book - just some simple idea of what that function does.
 
 ## Contributing
-Don't.
+Feel free to send a PR and I will accept it if it is helpful.
 
 ## Contact
 Twitter: BrailleScreen
